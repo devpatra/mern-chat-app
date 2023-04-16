@@ -1,4 +1,4 @@
-export const Users = [
+/*export const Users = [
     {
       id:1,
       profilePicture: "person/1.jpeg",
@@ -136,4 +136,4 @@ export const Users = [
       like: 104,
       comment: 12,
     },
-  ];
+  ];*/
